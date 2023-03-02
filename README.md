@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student at the "ESILV" engineering school in La Défense, Paris.<br>I am working as an infosec engineer at CNP Assurances.<br>My goal is to become a pentester / developer in offensive security. To do so, I am in a CTF association in my school and I am also present on @Root-Me and @HackTheBox.
+I am a student at the "ESILV" engineering school in La Défense, Paris.<br>I am working as an infosec engineer at CNP Assurances.<br>My goal is to become a pentester / developer in offensive security. To do so, I am in a CTF association "DaVinciCTF" in my school and I am also present on @Root-Me and @HackTheBox.
 
 
 ## 🌐 Socials:
